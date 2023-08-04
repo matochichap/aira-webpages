@@ -1,0 +1,7 @@
+body {
+  margin: calc(25px + 1.5vw);
+  font-family: "Poppins";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #F5F4F5;
+}
